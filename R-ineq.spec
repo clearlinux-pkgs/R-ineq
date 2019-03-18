@@ -4,7 +4,7 @@
 #
 Name     : R-ineq
 Version  : 0.2.13
-Release  : 5
+Release  : 6
 URL      : https://cran.r-project.org/src/contrib/ineq_0.2-13.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/ineq_0.2-13.tar.gz
 Summary  : Measuring Inequality, Concentration, and Poverty
@@ -23,10 +23,10 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C
-export SOURCE_DATE_EPOCH=1552771744
+export SOURCE_DATE_EPOCH=1552924910
 
 %install
-export SOURCE_DATE_EPOCH=1552771744
+export SOURCE_DATE_EPOCH=1552924910
 rm -rf %{buildroot}
 export LANG=C
 export CFLAGS="$CFLAGS -O3 -flto -fno-semantic-interposition "
