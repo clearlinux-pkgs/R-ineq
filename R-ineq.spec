@@ -4,7 +4,7 @@
 #
 Name     : R-ineq
 Version  : 0.2.13
-Release  : 30
+Release  : 31
 URL      : https://cran.r-project.org/src/contrib/ineq_0.2-13.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/ineq_0.2-13.tar.gz
 Summary  : Measuring Inequality, Concentration, and Poverty
